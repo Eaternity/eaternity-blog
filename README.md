@@ -1,1 +1,37 @@
 # Eaternity Blog
+
+In any _posts/DOCUMENT there are certain variables that get defined, some of them are necessary that the blog-posts gets published. Other just provide additional information:
+
+
+	layout: blog-post (necessary!)
+	category: blog (necessary!)
+
+	published: true (necessary - to tell the system to publish the page)
+
+	author: Manuel Klarmann (necessary!)
+
+	title: The title of the blog post (necessary!)
+	subtitle: This is the sub-title of the blog post (currently not used)
+
+	short: 
+	- This is a short text to preview the article ... (currently not used)
+
+	blog-image: 2014-07-01-Eaternity-zieht-die-Karotte.jpg (necessary - used on the frontpage and on top of articles)
+	image: 2014-07-01-Eaternity-zieht-die-Karotte/erfolg.jpg (currently not used)
+
+
+	circa: (currently not used)
+	media: (currently not used)
+	slides: (currently not used)
+	partner: (currently not used)
+	
+	
+	tags:
+	- Announcement
+	- News
+	- Company
+	- Culture
+	- etc
+	# for the current lists view ... tbd
+	
+
