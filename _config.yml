@@ -1,0 +1,42 @@
+name: Eaternity Blog
+description: Appetite for Change.
+meta_description: "Eaternity is creating a movement to establish climate friendly meals."
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'http://eaternity.org'
+google_analytics: 'UA-55310589-3'
+disqus: false
+disqus_shortname: 'eaternity'
+
+# Details for the RSS feed generator
+url:            'http://blog.eaternity.org'
+author:         'Eaternity, et. al'
+authorTwitter:  'eaternity'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
