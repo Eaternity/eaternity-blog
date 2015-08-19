@@ -26,8 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
 
 
 TED ist eine Nonprofit-Organisation mit der Mission, gute Ideen rund um den Globus zu verbreiten. In 15-minütigen Talks werden diese vorgestellt, aufgezeichnet und anschliessend ins Netz gestellt. So können die innovativen Ideen weltweit geteilt werden.
@@ -38,6 +36,6 @@ Schaut Euch [das Video][1] (mit deutschen und englischen Untertiteln) an und erf
 
 Haben wir euch überzeugt? Dann macht es wie TEDx, spread the word und teilt die Idee. Liked das Video auf unserer Facebook-Seite, schickt es an eure Liebsten und zeigt, dass auch Ihr unser Anliegen unterstützt. Tausend Dank!
 
-[![TEDx Bühne]({{ ASSET_PATH }}/images/blog/2014-03-12-TEDx-Lausanne/full_scope.jpg "TEDx Bühne")][1]
+[![TEDx Bühne](/images/blog/2014-03-12-TEDx-Lausanne/full_scope.jpg "TEDx Bühne")][1]
 
 [1]:http://tedxtalks.ted.com/video/Eating-is-an-environmental-actM

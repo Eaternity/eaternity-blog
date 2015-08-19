@@ -26,9 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
-
 ##Impressionen vom Umwelt-Tag im BAFU-Personalrestaurant
 
 Grüne Wirtschaft konkret: Am 5. Juni fand im Personalrestaurant des Bundesamt für Umwelt in Bern der Umwelttag statt. Christoph Holdener und sein Team kochten nach ökologischen Kriterien: ausnahmsweise ohne Fleischvariante; das Gemüse war regional und saisonal. Der Umwelttag war rege besucht, und die Menus kamen gut an. Insbesondere das Gemüsecurry mit Kokosmilch und saisonalem Gemüse war vorzeitig ausverkauft. 

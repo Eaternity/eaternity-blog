@@ -2,7 +2,7 @@ name: Eaternity Blog
 description: Appetite for Change.
 meta_description: "Eaternity is creating a movement to establish climate friendly meals."
 
-aboutPage: true
+aboutPage: false
 
 markdown: redcarpet
 highlighter: pygments

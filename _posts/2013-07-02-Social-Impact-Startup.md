@@ -30,8 +30,6 @@ short:
 ---
 
 
-{% include JB/setup %}
-
 
 Social Impact Start Award 2013 
 
@@ -43,7 +41,7 @@ Insbesondere auf das Mentoringprogramm mit einer erfahrenen Person von SAP freue
 Herzlichen Dank!
 
 
-![Social Impact Start Award Sigel]({{ ASSET_PATH }}/images/partner/socialimpactstart_siegel_rgb.png "social impact start award sigel")
+![Social Impact Start Award Sigel](/images/partner/socialimpactstart_siegel_rgb.png "social impact start award sigel")
 
 Zur [Ausschreibung des Wettbewerbs][1]. 
 

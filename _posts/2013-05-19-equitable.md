@@ -30,7 +30,6 @@ short:
 ---
 
 
-{% include JB/setup %}
 
 Zum Start unseres Beta-Test haben wir zusammen mit dem Restaurant [EquiTable][2] im [Sankt Meinrad][4] den CO2-Wert berechnet. Das hier Nachhaltigkeit gross geschrieben ist keine Überraschung mehr - wir haben drei leckere Gerichte genauer unter die Lupe genommen. Und das Gericht [Karottengarten][meal] lässt sich gleich als top-klimafreundlich auszeichnen!
 
@@ -39,10 +38,10 @@ Weil es neu und innovativ ist was hier passiert, dass den Gästen tatsächlich e
 Die [Berechnungen illustriert][calc] gibt es hier zum mitnehmen. 
 
 
-![EquiTable]({{ ASSET_PATH }}/images/partner/equitable.png "EquiTable")
-![Karottengarten]({{ ASSET_PATH }}/images/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
-![Schweinebauch]({{ ASSET_PATH }}/images/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
-![Saibling]({{ ASSET_PATH }}/images/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
+![EquiTable](/images/partner/equitable.png "EquiTable")
+![Karottengarten](/images/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
+![Schweinebauch](/images/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
+![Saibling](/images/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
 
 
 
@@ -52,7 +51,7 @@ Hier findet sich das Gericht Karottengarten im CO2-Rechner zum nachrechnen - Reg
 
 
 
-[calc]:{{ ASSET_PATH }}/files/Equitable-Flyer.pdf
+[calc]:/files/Equitable-Flyer.pdf
 [1]:http://co2.eaternity.ch
 [2]:http://www.equi-table.ch
 [3]:http://www.srf.ch/sendungen/trend/rezepte-fuer-einen-umweltfreundlichen-genuss-8

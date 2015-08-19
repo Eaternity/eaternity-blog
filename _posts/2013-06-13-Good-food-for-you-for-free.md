@@ -30,7 +30,6 @@ short:
 ---
 
 
-{% include JB/setup %}
 
 Bis zum  13 Juni präsentiert Lauren Widboltz ihre Diplomausstellung an der Zürcher Hochschule der Künste. Gratis vegane Küche gekocht aus Lebensmittel die bereits im Müll gelandet sind, jedoch noch unbedenklich gegessen werden können. Damit macht Lauren aufmerksam, dass weltweit viele Lebensmittel nie ihren Weg in den Gaumen der Leute finden, sondern lediglich auf den Müll landen. 
 

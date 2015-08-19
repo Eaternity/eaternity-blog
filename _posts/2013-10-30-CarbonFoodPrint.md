@@ -26,8 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
 
 Im Rahmen des Projekts [CarbonFoodPrint der Gebert Rüf Stiftung][1] wird zusammen mit den Hochschulen: der ZHAW und Universität Zürich unsere  Lösung für die Gastronomiepraxis optimiert und erprobt.
 

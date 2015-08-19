@@ -26,9 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
-
 Als geschickten Schachzug, zieht Eaternity die Karotte aus der Erde. Die Menge ist überrascht. (Siehe Bild)
 
 Es ist in letzter Zeit so viel passiert, dass wir nicht dazukamen ordentlich darüber zu berichten: Deswegen gibt es jetzt hier eine kurze Zusammenfassung:

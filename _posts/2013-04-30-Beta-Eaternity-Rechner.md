@@ -30,7 +30,6 @@ short:
 ---
 
 
-{% include JB/setup %}
 
 Heute starten wir den Beta-Test unseres CO2-Rechners - den bisher so noch niemand zu Gesicht bekommen hat.
 Für uns ein besonderer Moment. Der Rechner ermöglicht es jedem die Klimabilanz eines Rezeptes selbst auszurechnen und in anderen klimafreundlichen Rezepten zu stöbern.
@@ -52,7 +51,7 @@ Zur bisherigen Berichterstattungen in der Presse darüber:
 - Auftakt zum CO2-Rechner Beta-Test - Eaternity und Equitable im [Radiobericht im SRF 1 Trend][4] zum mitlauschen.
 - Mitteilung auf [newsdeutschland.com][6].
 
-[press]:{{ ASSET_PATH }}/files/20130429_MM-Klimaschutz-zum-Essen-CO2-Rechner-Eaternity-Klimastiftung-Schweiz.pdf
+[press]:www.eaternity.ch/files/20130429_MM-Klimaschutz-zum-Essen-CO2-Rechner-Eaternity-Klimastiftung-Schweiz.pdf
 [1]:http://co2.eaternity.ch
 [2]:http://www.startupticker.ch/en/news/april-2013/klimastiftung-unterstuetzt-eaternity-projekt#
 [3]:http://www.moneycab.com/mcc/2013/04/29/klimastiftung-verein-eaternity-testet-co2-rechner-fuer-menues/

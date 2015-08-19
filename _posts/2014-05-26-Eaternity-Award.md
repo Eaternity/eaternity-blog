@@ -26,8 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
 
 ##Der Eaternity Award
 Eaternity etabliert den neuen Standard in der Gastronomie: Tagesaktuelle CO2-Berechnungen aller servierten Menus bringen Transparenz in die Ernährung - und helfen bei der Entscheidung zu einem nachhaltigen und verantwortungsvollen Lebensstil. Die klimafreundlichen Menus sind mit dem Eaternity Award gekennzeichnet. Dieser zeichnet jene Menus aus, welche einen besonders niedrigen CO2-Wert aufweisen.
@@ -35,7 +33,7 @@ Eaternity etabliert den neuen Standard in der Gastronomie: Tagesaktuelle CO2-Ber
 Dazu hat Eaternity einen CO2-Rechner entwickelt, welcher auf der Datenbasis von Studien und fundierten Schätzungen, kombiniert mit den aktuellen Informationen zu Liefer- und Produktionsbedingungen, den CO2-Wert jedes einzelnen Menus im Restaurantbetrieb berechnet. Weiter wird ein Vergleichswert festgelegt, dieser basiert auf dem Durchschnitt des kompletten existierenden Menu-Angebots aller mitwirkenden Restaurants. Mit dem Eaternity Award lassen sich etwa 50% der CO2-Emissionen gegenüber diesem Durchschnitts-Menu im Restaurant einsparen.
 
 
-![Eaternity Award]({{ ASSET_PATH }}/images/blog/2014-05-26-Eaternity-Award/award.jpg "Eaternity Award")
+![Eaternity Award](/images/blog/2014-05-26-Eaternity-Award/award.jpg "Eaternity Award")
 
 
 **Wir machen Köche zu Klimahelden**

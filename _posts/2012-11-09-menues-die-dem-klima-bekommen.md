@@ -24,7 +24,6 @@ short:
 ---
 
 
-{% include JB/setup %}
 
 
 Judith und Manuel sind mit Eaternity in der Serie "Köpfe 2012" der [htr Hotel Revue][1]. Vorgestellt werden Menschen aus der Gastro-branche, welche in diesem Jahr Preise gewonnen haben. 
@@ -32,4 +31,4 @@ Na, da gehört Eaternity sicherlich dazu. Danke an die htr für den zutreffenden
 [Zum Artikel][2]
 
 [1]: http://www.htr.ch/index.html
-[2]: {{ ASSET_PATH }}/files/2012-11-08-htr-koepfe-2012.pdf
+[2]: /files/2012-11-08-htr-koepfe-2012.pdf

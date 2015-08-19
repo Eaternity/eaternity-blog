@@ -29,7 +29,6 @@ short:
 ---
 
 
-{% include JB/setup %}
 
 Es war uns schon immer eine grosse Freude Teil der Climate Knowledge and Innovation Community (kurz: Climate-KIC) zu sein. Jetzt sogar mit einer zusätzlichen offiziellen Urkunde als Stage 2 Start-Up. Mit grosser Freude ein herzliches Dankeschön.
 

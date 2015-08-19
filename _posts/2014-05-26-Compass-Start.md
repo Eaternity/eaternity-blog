@@ -26,8 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
-
 
 ##Essen für ein gutes Klima – Nachhaltigkeit auf unseren Tellern
 

@@ -26,7 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
 
 
 Frank Beeh, Matthias Stucki und Deborah Scharfy sind die coolsten neuen Leute, welche uns unterstützen

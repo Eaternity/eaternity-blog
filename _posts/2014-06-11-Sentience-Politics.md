@@ -26,7 +26,6 @@ partner:
 ---
 
 
-{% include JB/setup %}
 
 
 Am 11. Juni war Aurelian Jaggi mit bei der Lancierung der kantonalen Volksinitiative für eine “Nachhaltige und Faire Ernährung” dabei. Eaternity unterstützt die Initiative und sieht sie als wichtiger Schritt zur Förderung einer nachhaltigen Gesellschaft.

@@ -20,7 +20,6 @@ circa:
 ---
 
 
-{% include JB/setup %}
 
 Drei Schritte zur Beschleunigung. Die dritte Förderungs-Phase von Climate-KIC heisst "[Delivery][4]" und bietet CHF 50'000 an Unterstützung sowie einen Logenplatz im Inkubator [Blue Lion][1] in der Werkerei Schwamendingen. 
 

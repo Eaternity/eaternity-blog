@@ -26,7 +26,7 @@ partner:
 ---
 
 
-{% include JB/setup %}
+
 
 Von 64 Organisationen wurden [10 Gewinner][laureats] prämiert um an den Workshops des "Impact Program" teilzunehmen. Organisiert wird das Programm von [Ashoka Switzerland][swiss] - die sich tatkräftig für den Austausch unter den Teilnehmern einsetzen.
 
