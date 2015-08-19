@@ -38,10 +38,10 @@ Weil es neu und innovativ ist was hier passiert, dass den Gästen tatsächlich e
 Die [Berechnungen illustriert][calc] gibt es hier zum mitnehmen. 
 
 
-![EquiTable](/images/partner/equitable.png "EquiTable")
-![Karottengarten](/images/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
-![Schweinebauch](/images/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
-![Saibling](/images/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
+![EquiTable](/assets/images/partner/equitable.png "EquiTable")
+![Karottengarten](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-1.jpg "Karottengarten")
+![Schweinebauch](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-2.jpg "Schweinebauch")
+![Saibling](/assets/images/blog/2013-05-19-equitable/2013-05-19-equitable-3.jpg "Saibling")
 
 
 

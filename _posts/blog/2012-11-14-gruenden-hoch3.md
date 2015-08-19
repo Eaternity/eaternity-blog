@@ -31,6 +31,6 @@ short:
 {% include JB/setup %}
 
 
-![artikel]({{ ASSET_PATH }}/files/2012-11-14-gruenden-hoch-3.pdf "artikel")
+![artikel](/files/2012-11-14-gruenden-hoch-3.pdf "artikel")
 
 

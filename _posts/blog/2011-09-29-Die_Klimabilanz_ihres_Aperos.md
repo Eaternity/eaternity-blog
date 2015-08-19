@@ -4,7 +4,7 @@ category: blog
 
 published: true
 
-image: /images/blog/ 
+image: /assets/images/blog/ 
 title: Die Klimabilanz Ihres Apéros
 
 blog-image:  
