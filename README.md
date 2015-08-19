@@ -29,12 +29,14 @@ In any _posts/DOCUMENT there are certain variables that get defined, some of the
 	
 	
 	tags:
-	- Announcement
 	- News
 	- Company
 	- Culture
+	- Eaternity Cloud
+	- Press Release
+	- Milestone
+	- Case Study / Success Story
 	- etc
-	# for the current lists view ... tbd
 	
 
 Images need to be saved in the assets/images/blog folder.
