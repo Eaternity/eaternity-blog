@@ -3,6 +3,7 @@ layout: default
 archive: true
 ---
 
+<img src="/assets/images/blog/teaser_1400x450/{{ page.blog-image }}" alt="{{ page.title }} - Image">
 <article class="post">
     <header>
         <h1>{{ page.title }}</h1>
@@ -14,7 +15,7 @@ archive: true
 </article>
 <footer id="post-meta" class="clearfix">
     <a href="http://twitter.com/{{ site.authorTwitter }}">
-        <img class="avatar" src="/assets/images/avatar.png">
+        <img class="avatar" src="/assets/images/eaternity.png">
         <div>
             <span class="dark">{{ site.author }}</span>
             <span>{{ site.description }}</span>
@@ -40,7 +41,7 @@ archive: true
         <h3>Read more</h3>
         {% for post in site.posts %}
             <li>
-                <a href="{{ post.url }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
+                <a href="{{ post.url }}">{{ post.title }}<aside class="dates">{{ post.date | date:"%Y %b %d" }}</aside></a>
             </li>
         {% endfor %}
     </ul>

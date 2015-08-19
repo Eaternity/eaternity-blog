@@ -3,9 +3,12 @@ layout: blog-post
 category: blog
 date: 2009-12-15
 
-image: 2009-12-15-Il_est_trop_tard_pour_etre_pessimiste.jpg
-title: 
+image: 2009-12-15-Il_est_trop_tard_pour_etre_pessimiste_II.md
+title: „Il est trop tard pour etre pessimiste.“ 
 blog-image:  
+
+published: true
+
 
 media: 
 
@@ -21,12 +24,9 @@ partner:
 Anschliessend betrat James Balog die „Bühne“ und präsentierte eindrucksvolle Bilder der Gletscherschmelze. Seht selbst unter: 
 
 [http://www.extremeicesurvey.org/][1]. Der letzte öffentliche Auftritt des Abends gebührte einem Mitglied des IPCC.
+
 Der Promis noch nicht genug, konnten wir am Ende des Abends noch Yann Arthus-Betrand die Hand schütteln und ein Autogramm von ihm abholen. Im Gegenzug bekam er von uns einen eaternity-Flyer. Wir sind gespannt, wen wir als nächstes treffen!
 
 [1]: http://www.extremeicesurvey.org/
 
 image: 2009-12-15-Il_est_trop_tard_pour_etre_pessimiste_II.jpg
-
-
-
- 

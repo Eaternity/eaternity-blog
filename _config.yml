@@ -1,5 +1,5 @@
 name: Eaternity Blog
-description: Appetite for Change.
+description: We have an Appetite for Change.
 meta_description: "Eaternity is creating a movement to establish climate friendly meals."
 
 aboutPage: false
@@ -15,11 +15,11 @@ disqus: false
 disqus_shortname: 'eaternity'
 
 # Details for the RSS feed generator
-url:            'http://blog.eaternity.org'
-author:         'Eaternity, et. al'
+url:            'http://www.eaternity.org'
+author:         'Eaternity Blog'
 authorTwitter:  'eaternity'
 
-permalink:       /:year/:title/
+permalink:       /:categories/:year/:title/
 
 defaults:
     -
