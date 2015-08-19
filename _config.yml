@@ -9,13 +9,13 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://eaternity.org'
+domain_name: 'http://eaternity.github.io/eaternity-blog/'
 google_analytics: 'UA-55310589-3'
 disqus: false
 disqus_shortname: 'eaternity'
 
 # Details for the RSS feed generator
-url:            'http://blog.eaternity.org'
+url:            'http://eaternity.github.io/eaternity-blog/'
 author:         'Eaternity, et. al'
 authorTwitter:  'eaternity'
 
