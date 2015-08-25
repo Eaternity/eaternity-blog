@@ -1,5 +1,7 @@
 # Eaternity Blog
 
+[![Join the chat at https://gitter.im/Eaternity/eaternity-org](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Eaternity/eaternity-org?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In any _posts/DOCUMENT there are certain variables that get defined, some of them are necessary that the blog-posts gets published. Other just provide additional information:
 
 
