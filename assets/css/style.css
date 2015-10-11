@@ -649,8 +649,59 @@ h2.month {
 
 .android-header {
   overflow: visible;
-  background-color: rgba(0, 0, 0, 0.498039)
+  background-color: rgba(0, 0, 0, 0.5)
 }
+
+.sub-header {
+	background-color: rgba(255, 255, 255, 0);
+	margin-top:32px;
+
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+
+.sub-header .mdl-navigation__link {
+	padding-right: 0px;
+}
+
+.sub-header .mdl-layout__header-row {
+	margin-top:32px;
+	max-width: 960px;
+	overflow: visible;
+	margin: auto;
+	border-bottom: 1px solid black;
+
+}
+
+.sub-header h1 {
+	color:  black;
+	font-weight: 200;
+	font-size: 29px;
+	padding-bottom: 10px;
+	letter-spacing: 0px;
+}
+
+.sub-header .mdl-layout__header-row a{
+	color:  black;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.first a {
+	float:left;
+}
+
+.mdl-layout__header .mdl-layout__drawer-button {
+	  background-color: rgba(0, 0, 0, 0);
+}
+
+.android-navigation .mdl-navigation__link {
+    display: inline-block;
+    height: 60px;
+    line-height: 68px;
+}
+
 
 .mdl-layout__header {
 	min-height: 44px;
@@ -675,7 +726,7 @@ h2.month {
 	margin: 0 14px 0 14px;
 }
   .android-header .material-icons {
-    color: rgb(255, 255, 255) !important;
+    color: rgb(255, 255, 255, 0.5) !important;
   }
 
   .android-header .mdl-layout__drawer-button {
@@ -687,7 +738,7 @@ h2.month {
     color: rgb(255, 255, 255);
     font-weight: 400;
     font-size: 17px;
-	
+
   }
 
   .android-header a {
@@ -701,12 +752,22 @@ h2.month {
  .mdl-layout__header .mdl-layout__drawer-button {
 	  margin: 0;
   }
-  
+
+	.mdl-layout__drawer a {
+		color: rgb(255, 255, 255);
+		font-weight: 400;
+		font-size: 15px;
+	}
+
+	.mdl-layout__drawer h1 {
+		color: rgb(255, 255, 255);
+		font-weight: 400;
+		font-size: 17px;
+		margin:10px;
+	}
+
   @media only screen and (min-width:840px){
       .mdl-layout__drawer-button {
           display: none;
       }
   }
-
-
-  

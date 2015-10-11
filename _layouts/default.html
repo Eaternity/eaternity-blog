@@ -11,61 +11,57 @@
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
   <link rel="stylesheet" href="/assets/css/highlight.css">
-  
+
   <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.grey-orange.min.css" /> 
+  <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.grey-orange.min.css" />
+  <link rel="stylesheet" href="/assets/css/material.css" />
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 
 
 
-  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+ <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+	  <div class="android-header mdl-layout__header mdl-layout__header--scroll">
 
-      <div class="android-header mdl-layout__header mdl-layout__header--scroll">
-		  
-		  
-		<!-- Hide Desktop Start -->
-        <div class="mdl-layout__header-row mdl-cell--hide-desktop">
-        
-		
-        <button class="android-more-button mdl-button mdl-js-button mdl-button--icon" id="more-button">
-        </button>
-		
+		<!-- Hide on Desktop Start -->
+    <div class="mdl-layout__header-row mdl-cell--hide-desktop">
+
+          <button class="android-more-button mdl-button mdl-js-button mdl-button--icon" id="more-button">
+          </button>
+
           <!-- Add spacer, to align navigation to the right in desktop -->
           <div class="android-header-spacer mdl-layout-spacer"></div>
-		  
-		  
-		  <!-- Eaternity App -->
+
+		      <!-- Eaternity App -->
           <label class="mdl-button mdl-js-button mdl-button--icon little-higher">
             <img src="/assets/images/ganz-weiss.svg" alt="The Eaternity App">
-          </label>  
-		  
+          </label>
+
           <!-- Add spacer, to align navigation to the right in desktop -->
           <div class="android-header-spacer mdl-layout-spacer"></div>
-		  
+
 		  <!-- Contact -->
-          <button class="android-more-button mdl-button mdl-js-button mdl-button--icon" id="more-button">
-            <i class="material-icons">email</i>
-          </button>
-		  
+          <button class="android-more-button mdl-button mdl-js-button mdl-button--icon" id="more-button"><i class="material-icons">email</i></button>
+
+
 		</div>
 		<!-- Hide Desktop End -->
-		  
-		  
-		<!-- Hide Tablet&Phone Start -->
+
+
+		<!-- Hide on Tablet&Phone Start -->
         <div class="mdl-layout__header-row mdl-cell--hide-tablet mdl-cell--hide-phone">
-        
+
           <!-- Add spacer, to align navigation to the right in desktop -->
           <div class="android-header-spacer mdl-layout-spacer"></div>
-		  
-		  
+
+
 		  <!-- Eaternity App -->
           <label class="mdl-button mdl-js-button mdl-button--icon little-higher">
             <img src="/assets/images/ganz-weiss.svg" alt="The Eaternity App">
           </label>
-		  
+
 		  <!-- Search -->
           <!-- <div class="android-search-box mdl-textfield mdl-js-textfield mdl-textfield--expandable mdl-textfield--floating-label mdl-textfield--align-right mdl-textfield--full-width">
             <label class="mdl-button mdl-js-button mdl-button--icon" for="search-field">
@@ -75,8 +71,8 @@
               <input class="mdl-textfield__input" type="text" id="search-field" />
             </div>
           </div> -->
-		  
-		  
+
+
           <!-- Navigation -->
           <div class="android-navigation-container">
             <nav class="android-navigation mdl-navigation">
@@ -87,22 +83,25 @@
               <a class="mdl-navigation__link" href="">References</a>
             </nav>
           </div>
-		  
+
 		  <!-- Contact -->
           <button class="android-more-button mdl-button mdl-js-button mdl-button--icon" id="more-button">
             <i class="material-icons">email</i>
           </button>
-		  
+
           <!-- Add spacer, to align navigation to the right in desktop -->
           <div class="android-header-spacer mdl-layout-spacer"></div>
-		  
-        </div>
-		<!-- Hide Tablet&Phone End -->
-		
-      </div>
 
-	 
- 	 <div class="android-drawer mdl-layout__drawer">
+        </div>
+
+	 	<!-- Hide Tablet&Phone End -->
+	 </div>
+
+ 	 <div class="android-drawer mdl-layout__drawer" style="background-color: rgba(50, 50, 50, 0.95);">
+
+     <!-- Eaternity App -->
+     <img src="/assets/images/ganz-weiss.svg" alt="The Eaternity App" style="margin-top:20px;height:120px">
+
         <nav class="mdl-navigation">
               <a class="mdl-navigation__link" href="">Eaternity App</a>
               <a class="mdl-navigation__link" href="">Technology</a>
@@ -110,33 +109,68 @@
               <a class="mdl-navigation__link" href="">Eaternity's Goal</a>
               <a class="mdl-navigation__link" href="">References</a>
         </nav>
-      </div>
-    
 
-      <div class="android-content mdl-layout__content">
-		  
-		  
 
-		  {% include navigation.html %}
+        <nav class="mdl-navigation">
+            <h1>FoodPrint Consortium</h1>
+              <a class="mdl-navigation__link" href="">Eaternity App 1</a>
+              <a class="mdl-navigation__link" href="">Technology 2</a>
+              <a class="mdl-navigation__link" href="">Our Planet 3</a>
+              <a class="mdl-navigation__link" href="">Eaternity's Goal 4</a>
+              <a class="mdl-navigation__link" href="">References 5</a>
+        </nav>
+    </div>
 
-		  {% if page.profile %}
-		      {% include profile.html %}
-		  {% endif %}
+    <div class="sub-header mdl-layout__header mdl-layout__header--scroll mdl-cell--hide-phone">
+      <div class="mdl-layout__header-row">
 
-		  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
-		    {{ content }}
-		  </section>
-		  
-		  
-       
+            <h1 class="gone">FoodPrint Consortium</h1>
+            <!-- Add spacer, to align navigation to the right in desktop -->
+            <div class="android-header-spacer mdl-layout-spacer gone"></div>
+
+            <div class="">
+
+              <nav class="mdl-navigation  mdl-cell--hide-tablet">
+
+                <a class="mdl-navigation__link first" href="">FoodPrint Consortium</a>
+                <a class="mdl-navigation__link" href="">Technology</a>
+                <a class="mdl-navigation__link" href="">Our Planet</a>
+                <a class="mdl-navigation__link" href="">Eaternity's Goal</a>
+                <a class="mdl-navigation__link" href="">References</a>
+              </nav>
+            </div>
+
       </div>
     </div>
 
 
 
 
+
+      <div class="android-content mdl-layout__content">
+
+      <div style="height:540px;width:100%;margin-top:-120px;background-color:green;margin-bottom:-400px;">hallo</div>
+
+		  <!-- {% include navigation.html %} -->
+<!--
+		  {% if page.profile %}
+		      {% include profile.html %}
+		  {% endif %} -->
+
+		  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
+		    {{ content }}
+		  </section>
+
+      </div>
+
+ </div>
+
+
+
+
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+  <script src="/assets/js/material.js"></script>
   <script src="/assets/js/main.js"></script>
   <script src="/assets/js/highlight.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
@@ -152,6 +186,3 @@
   </script>
 </body>
 </html>
-
-
-
